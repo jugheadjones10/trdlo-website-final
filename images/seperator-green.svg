@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="671.73871"
+   height="12.331999"
+   viewBox="0 0 671.73874 12.331999"
+   xml:space="preserve">
+<g
+   transform="translate(159.40965,-4.3340005)"
+   id="g4">
+	<polygon
+   points="187.464,14.057 182.666,10.52 187.494,6.944 192.291,10.48 "
+   id="polygon6"
+   style="fill:#00635b" />
+	<polygon
+   points="165.995,14.057 161.197,10.52 166.025,6.944 170.822,10.48 "
+   id="polygon8"
+   style="fill:#00635b" />
+	<circle
+   cx="194.382"
+   cy="10.5"
+   r="2.4519999"
+   id="circle10"
+   style="fill:#00635b" />
+	<circle
+   cx="176.828"
+   cy="10.5"
+   r="2.4519999"
+   id="circle12"
+   style="fill:#00635b" />
+	<circle
+   cx="158.745"
+   cy="10.5"
+   r="2.4519999"
+   id="circle14"
+   style="fill:#00635b" />
+	<circle
+   cx="176.828"
+   cy="10.5"
+   r="5.6659999"
+   id="circle16"
+   style="fill:none;stroke:#00635b;stroke-miterlimit:10" />
+	
+		<line
+   stroke-miterlimit="10"
+   x1="0"
+   y1="10.5"
+   x2="158.416"
+   y2="10.5"
+   id="line18"
+   style="fill:none;stroke:#00635b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+	
+		<line
+   stroke-miterlimit="10"
+   x1="194.5"
+   y1="10.5"
+   x2="352.91599"
+   y2="10.5"
+   id="line20"
+   style="fill:none;stroke:#00635b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10" />
+<line
+   style="fill:none;stroke:#00635b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   stroke-miterlimit="10"
+   x1="352.91309"
+   y1="10.500998"
+   x2="511.3291"
+   y2="10.500998"
+   id="line20-7" /><line
+   style="fill:none;stroke:#00635b;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10"
+   stroke-miterlimit="10"
+   x1="-158.40965"
+   y1="10.498468"
+   x2="0.0065674433"
+   y2="10.498468"
+   id="line18-0" /></g>
+</svg>
