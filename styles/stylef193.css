@@ -258,9 +258,22 @@ h1:after,.h1:after{
     background:url(../images/seperator-green.svg) no-repeat 50% 50%;
     background-size:cover
 }
+@media (max-width: 1000px){
+    h1,.h1{
+        margin-left: auto;
+        margin-right: auto;
+        /* width: 40%; */
+        text-align: center;
+        display: block;
+    }
+    h1:after, .h1:after{
+        width:50%;
+    }
+}
+
 @media screen and (min-width: 750px){
     h1,.h1{
-        font-size:2.1875rem
+        font-size:2.;
     }
 }
 h2,.h2{
@@ -739,7 +752,7 @@ body.gc-modal-open main,body.gc-modal-open .main-menu,body.gc-modal-open .page-f
     margin-top:.9375rem
 }
 .page-footer .footer-contact{
-    display:none
+    /* display:none */
 }
 .page-footer .footer-contact a{
     color:#abaaaa

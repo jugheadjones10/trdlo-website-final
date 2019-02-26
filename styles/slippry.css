@@ -259,7 +259,7 @@
   list-style: none;
   text-align: center; 
   position: absolute;
-  z-index : 7;
+  z-index : 5;
 }
   .sy-pager li {
     display: inline-block;
